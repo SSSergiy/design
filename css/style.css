@@ -68,7 +68,6 @@ img {
   background-color: #eeeff1;
   min-height: 516px;
 }
-
 .design__items {
   padding: 83px 0px 0px 0px;
   display: flex;
@@ -88,7 +87,6 @@ img {
   text-align: left;
   margin: 0px 0px 65px 0px;
 }
-
 .design__btn {
   display: inline-block;
   display: flex;
@@ -113,12 +111,6 @@ img {
   padding: 15px 35px;
 }
 /*--------------------------MAIN--about ------------------------------------*/
-.about {
-}
-.container-center {
-}
-.about__items {
-}
 .block__items {
   max-width: 540px;
   margin: 100px auto 57px auto;
@@ -153,8 +145,6 @@ img {
   display: flex;
   gap: 20px;
 }
-.achievements__item-logo {
-}
 .achievements__item-info {
   padding: 5px 0px 0px 0px;
   color: #ffffff;
@@ -177,7 +167,6 @@ img {
   padding: 100px 0px 0px 0px;
   margin: 0px auto 0px auto;
 }
-
 .work__title {
   font-weight: 500;
   font-size: 32px;
@@ -194,7 +183,9 @@ img {
 iframe {
   width: 1150px;
   height: 600px;
-} 
+  aspect-ratio: 16 / 9;
+  border: 0;
+}
 /*---------------------------------------FOOTER-----------------------------------------*/
 .footer {
   background: #34547a;
