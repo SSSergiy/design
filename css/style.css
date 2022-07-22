@@ -59,8 +59,7 @@ img {
 }
 .active:hover {
   color: #34547a;
-  text-shadow: 2px 2px 7px #34547a;
-}
+   }
 /*--------------------------MAIN--design ------------------------------------*/
 .design {
   padding: 0;
@@ -110,8 +109,7 @@ img {
   padding: 15px 35px;
 }
 /*--------------------------MAIN--about ------------------------------------*/
-
-.about__items{
+.about__items {
   max-width: 540px;
   margin: 0px auto 57px auto;
   display: flex;
@@ -155,7 +153,7 @@ img {
   font-weight: 500;
   font-size: 21px;
   line-height: 1.19;
-margin: 0px 0px 0px -30px;
+  margin: 0px 0px 0px -30px;
 }
 .achievements__item-subtitle {
   line-height: 1.62;
