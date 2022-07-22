@@ -47,7 +47,7 @@ img {
   display: flex;
   text-align: center;
   align-items: center;
-  gap: 42px;
+  gap: 43px;
 }
 .navbar__link {
   font-style: normal;
@@ -58,7 +58,6 @@ img {
   user-select: none;
 }
 .active:hover {
-  font-weight: 500;
   color: #34547a;
   text-shadow: 2px 2px 7px #34547a;
 }
@@ -69,7 +68,7 @@ img {
   min-height: 516px;
 }
 .design__items {
-  padding: 70px 0px 0px 0px;
+  padding: 74px 0px 0px 0px;
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -85,7 +84,7 @@ img {
 .design__text {
   line-height: 1.62;
   text-align: left;
-  margin: 0px 0px 65px 0px;
+  margin: -24px 0px 65px 0px;
 }
 .design__btn {
   display: inline-block;
@@ -95,7 +94,7 @@ img {
   min-height: 65px;
   background: #34547a;
   max-width: 225px;
-  margin: -33px 0px 131px 0px;
+  margin: -9px 0px 131px 0px;
 }
 .design__btn:hover {
   background: hsla(213, 40%, 34%, 0.8);
@@ -114,13 +113,13 @@ img {
 
 .about__items{
   max-width: 540px;
-  margin: -8px auto 57px auto;
+  margin: 0px auto 57px auto;
   display: flex;
   flex-direction: column;
   text-align: center;
   align-items: center;
-  gap: 15px;
-  padding: 130px 0px 64px 0px;
+  gap: 38px;
+  padding: 126px 0px 36px 0px;
 }
 .about__title {
   font-weight: 500;
@@ -134,18 +133,19 @@ img {
 /*--------------------------MAIN--achievements------------------------------------*/
 .achievements {
   background: #34547a;
-  min-height: 250px;
+  min-height: 251px;
 }
 .achievements__list {
   min-height: 250px;
   display: flex;
-  gap: 54px;
+  gap: 53px;
   align-items: center;
   text-align: center;
+  padding: 6px 0px 0px 7px;
 }
 .achievements__items {
   display: flex;
-  gap: 20px;
+  gap: 18px;
 }
 .achievements__item-info {
   padding: 5px 0px 0px 0px;
@@ -155,6 +155,7 @@ img {
   font-weight: 500;
   font-size: 21px;
   line-height: 1.19;
+margin: 0px 0px 0px -30px;
 }
 .achievements__item-subtitle {
   line-height: 1.62;
@@ -163,7 +164,6 @@ img {
 .work {
   background: #eeeff1;
   min-height: 304px;
-  
 }
 .work__items {
   padding: 100px 0px 0px 0px;
@@ -171,13 +171,13 @@ img {
 }
 .block__items {
   max-width: 540px;
-  margin: 0 auto 57px auto;
+  margin: 0 auto 49px auto;
   display: flex;
   flex-direction: column;
   text-align: center;
   align-items: center;
   gap: 32px;
-  padding: 89px 0px 0px 0px;
+  padding: 90px 0px 0px 16px;
 }
 .work__title {
   font-weight: 500;
@@ -185,14 +185,13 @@ img {
   line-height: 1.9;
   color: #000000;
   padding: 0px 0px 0px 0px;
-
 }
 .work__text {
   line-height: 1.5;
 }
 .content {
   background: #eeeff1;
-  padding: 0px 0px 100px 0px;
+  padding: 4px 0px 100px 0px;
 }
 iframe {
   width: 1150px;
@@ -211,9 +210,9 @@ iframe {
   min-height: 127px;
   display: flex;
   flex-direction: column;
-  gap: 9px;
+  gap: 11px;
   justify-content: center;
-  padding: 35px 0;
+  padding: 1px 5px 9px 6px;
 }
 .footer__title {
   font-weight: 500;
