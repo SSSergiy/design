@@ -59,7 +59,7 @@ img {
 }
 .active:hover {
   color: #34547a;
-   }
+}
 /*--------------------------MAIN--design ------------------------------------*/
 .design {
   padding: 0;
@@ -67,7 +67,7 @@ img {
   min-height: 516px;
 }
 .design__items {
-  padding: 74px 0px 0px 0px;
+  padding: 70px 0px 0px 0px;
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -78,12 +78,12 @@ img {
   font-size: 48px;
   line-height: 1.64;
   color: #000000;
-  margin: 0px 0px 60px 0px;
+  margin: 0px 0px 58px 0px;
 }
 .design__text {
   line-height: 1.62;
   text-align: left;
-  margin: -24px 0px 65px 0px;
+  margin: -24px 0px 67px 0px;
 }
 .design__btn {
   display: inline-block;
@@ -111,13 +111,13 @@ img {
 /*--------------------------MAIN--about ------------------------------------*/
 .about__items {
   max-width: 540px;
-  margin: 0px auto 57px auto;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
   text-align: center;
   align-items: center;
-  gap: 38px;
-  padding: 126px 0px 36px 0px;
+  gap: 40px;
+  padding: 120px 0px 88px 12px;
 }
 .about__title {
   font-weight: 500;
@@ -169,7 +169,7 @@ img {
 }
 .block__items {
   max-width: 540px;
-  margin: 0 auto 49px auto;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -189,7 +189,7 @@ img {
 }
 .content {
   background: #eeeff1;
-  padding: 4px 0px 100px 0px;
+  padding: 4px 0px 94px 0px;
 }
 iframe {
   width: 1150px;
