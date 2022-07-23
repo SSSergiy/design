@@ -1,4 +1,7 @@
 {
-  "workbench.sash.size": 2,
-  "workbench.tree.indent": 4
+  "workbench.sash.size": 4,
+  "workbench.tree.indent": 8,
+  "workbench.settings.editor": "json",
+  "emmet.triggerExpansionOnTab": true,
+  "editor.tabSize": 2
 }
